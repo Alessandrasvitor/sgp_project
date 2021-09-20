@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sgp-dotnet", "sgp-dotnet.csproj", "{AC176EB8-545D-4A15-8A0C-76B1352951A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC176EB8-545D-4A15-8A0C-76B1352951A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC176EB8-545D-4A15-8A0C-76B1352951A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC176EB8-545D-4A15-8A0C-76B1352951A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC176EB8-545D-4A15-8A0C-76B1352951A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE02A46F-B8A3-42CB-ABA0-D9FE3A598905}
+	EndGlobalSection
+EndGlobal
